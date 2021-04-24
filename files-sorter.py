@@ -4,7 +4,7 @@ import os
 import shutil
 from posix import listdir
 
-intro_message = 'This is a script that sorts your files and places them in folders depending   on their extension'
+intro_message = 'This is a script that sorts your files and places them in folders depending on their extension'
 
 dir_names = ['Documents', 'Pictures', 'Music', 'Coding', 'Videos', 'Design Files', 'Archives']
 dir_ext = [
